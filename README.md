@@ -39,6 +39,8 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
  - No Mouse, or No IDE (text editor only)
  - No conditional statementsNo loops
  - No TDD
+
+Even more constraints: https://www.coderetreat.org/facilitators/constraints/
  
  ## TDD As If You Meant It (i.e. Strict TDD) 
  
